@@ -30,6 +30,16 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 6. Testeo 
 7. Puesta en producción
 
+## Boceto UI
+
+![Esta es una imagen de ejemplo](/BocetoInterfaz/1.png)
+![Esta es una imagen de ejemplo](/BocetoInterfaz/2.png)
+![Esta es una imagen de ejemplo](/BocetoInterfaz/3.png)
+![Esta es una imagen de ejemplo](/BocetoInterfaz/4.png)
+![Esta es una imagen de ejemplo](/BocetoInterfaz/5.png)
+![Esta es una imagen de ejemplo](/BocetoInterfaz/6.png)
+![Esta es una imagen de ejemplo](/BocetoInterfaz/7.png)
+
 ## Responsabilidades
 
 <table>
