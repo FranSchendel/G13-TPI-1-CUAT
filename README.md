@@ -21,14 +21,6 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 - Ranking de jugadores, evolución de un jugador
 - Apartado de sugerencias
 
-## Tareas
-1. Investigación y redacción de preguntas y sus respuestas
-2. Diseño de imagen y de la UI
-3. Diseño de la base de datos 
-4. Funciones de interacción con la base (API, Flask) 
-5. Front-end del juego (HTML, CSS, JS)
-6. Testeo 
-7. Puesta en producción
 
 ## Boceto UI
 
@@ -40,6 +32,14 @@ Los nombres de los jugadores y sus puntajes históricos se guardarán en una bas
 ![Esta es una imagen de ejemplo](/BocetoInterfaz/6.png)
 ![Esta es una imagen de ejemplo](/BocetoInterfaz/7.png)
 
+## Tareas
+1. Investigación y redacción de preguntas y sus respuestas
+2. Diseño de imagen y de la UI
+3. Diseño de la base de datos 
+4. Funciones de interacción con la base (API, Flask) 
+5. Front-end del juego (HTML, CSS, JS)
+6. Testeo 
+7. Puesta en producción
 ## Responsabilidades
 
 <table>
