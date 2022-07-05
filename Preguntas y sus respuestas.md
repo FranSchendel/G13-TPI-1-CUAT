@@ -4,7 +4,8 @@
 Resp.Correcta: Eutrofización  
 Resp.Incorrecta: Plásticos  
 Resp.Incorrecta: Desechos químicos expulsados por los seres vivos     
-Resp.Incorrecta: Desechos tóxicos   
+Resp.Incorrecta: Desechos tóxicos 
+Justificación: Este proceso está provocado por el exceso de nutrientes en el agua, procedentes, en su matoría, de la actividad del hombre.
 
 **2)** ¿Cuál de los siguientes objetivos NO pertenece al ODS 6?  
 Resp.Correcta: Minimizar y abordar los efectos de la acidificación de los océanos  
@@ -110,11 +111,11 @@ Resp.Incorrrecta: Organización de Marineros Internacional
 Resp.Incorrrecta: Organización Maríima para la Intercomunicación  
 Resp.Incorrrecta: Organización Mundial de la Internavegación  
 
-**19)**  ¿Cuál de estos objetivos no es propio del ODS 6?  
-Resp.Correcta: De aquí a 2030, aumentar los beneficios económicos que los pequeños Estados insulares en desarrollo y los países menos adelantados obtienen del uso sostenible de los recursos marinos, en particular mediante la gestión sostenible de la pesca, la acuicultura y el turismo  
-Resp.Incorrrecta:  De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda  
-Resp.Incorrrecta:  De aquí a 2020, proteger y restablecer los ecosistemas relacionados con el agua, incluidos los bosques, las montañas, los humedales, los ríos, los acuíferos y los lagos  
-Resp.Incorrrecta:  Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento  
+**19)**  ¿Cuál de estos objetivos no es propio del ODS 14?  
+Resp.Correcta:  De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda.  
+Resp.Incorrrecta:  Minimizar y abordar los efectos de la acidificación de los océanos, incluso mediante una mayor cooperación científica a todos los niveles.  
+Resp.Incorrrecta:  De aquí a 2030, aumentar los beneficios económicos que los pequeños Estados insulares en desarrollo y los países menos adelantados obtienen del uso sostenible de los recursos marinos, en particular mediante la gestión sostenible de la pesca, la acuicultura y el turismo.  
+Resp.Incorrrecta:  Aumentar los conocimientos científicos, desarrollar la capacidad de investigación y transferir tecnología marina, teniendo en cuenta los Criterios y Directrices para la Transferencia de Tecnología Marina de la Comisión Oceanográfica Intergubernamental, a fin de mejorar la salud de los océanos y potenciar la contribución de la biodiversidad marina al desarrollo de los países en desarrollo, en particular los pequeños Estados insulares en desarrollo y los países menos adelantados.  
 
 **20)** ¿Qué tipo de ciencia quiere impulsar la ONU en esta década?  
 Resp.Correcta: Ciencias Oceánicas      
