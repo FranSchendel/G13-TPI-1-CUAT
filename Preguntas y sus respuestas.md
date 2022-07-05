@@ -3,14 +3,14 @@
 **1)** ¿Cuál es el proceso de contaminación más importante de las aguas en lagos, balsas, ríos, embalses, etc?  
 Resp.Correcta: Eutrofización  
 Resp.Incorrecta: Plásticos  
-Resp.Incorrecta:   
-Resp.Incorrecta:   
+Resp.Incorrecta: Desechos químicos expulsados por los seres vivos     
+Resp.Incorrecta: Desechos tóxicos   
 
 **2)** ¿Cuál de los siguientes objetivos NO pertenece al ODS 6?  
 Resp.Correcta: Minimizar y abordar los efectos de la acidificación de los océanos  
 Resp.Incorrecta: Proteger y restablecer los ecosistemas acuáticos.  
-Resp.Incorrecta: aumentar el uso eficiente de los recursos hídricos en todos los sectores  
-Resp.Incorrecta: acceso universal y equitativo al agua potable  
+Resp.Incorrecta: Aumentar el uso eficiente de los recursos hídricos en todos los sectores  
+Resp.Incorrecta: Acceso universal y equitativo al agua potable  
 
 **3)** ¿Cuántas personas aproximadamente carecen de acceso a servicios básicos de saneamiento?  
 Resp.Correcta: 4 billones  
@@ -20,9 +20,9 @@ Resp.Incorrecta: 580.000 millones
 
 **4)** La falta de higiene puede provocar:  
 Resp.Correcta: Todas  
-Resp.Incorrecta:  enfermedades diarreicas   
-Resp.Incorrecta:  muerte  
-Resp.Incorrecta: gripe  
+Resp.Incorrecta:  Enfermedades diarreicas   
+Resp.Incorrecta:  Muerte  
+Resp.Incorrecta: Gripe  
 
 **5)** ¿Qué es lo que genera que el océano sea más ácido?  
 Resp. Correcta: Dióxido de Carbono  
@@ -37,10 +37,10 @@ Resp.Incorrecta: La limpieza de los acuíferos
 Resp.incorrecta: Estudio de la vida marítima  
 
 **7)** ¿Qué se celebra el Día Mundial del Retrete (19 de septiembre)?  
-Resp.Correcta:  abordar la crisis mundial de saneamiento  
-Resp.Incorrecta: celebrar al creador del Inodoro (Joseph Bramah)  
-Resp.Incorrecta: abordar la falta de Retretes en el mundo  
-Resp.Incorrecta: día para lavar el Inodoro  
+Resp.Correcta:  Abordar la crisis mundial de saneamiento  
+Resp.Incorrecta: Celebrar al creador del Inodoro (Joseph Bramah)  
+Resp.Incorrecta: Abordar la falta de Retretes en el mundo  
+Resp.Incorrecta: Día para lavar el Inodoro  
 
 **8)** Puestos de trabajo creados por la pesca marina:  
 Resp.Correcta: +200 millones  
@@ -55,16 +55,16 @@ Resp.Incorrecta: Argentina
 Resp.Incorrecta: China  
 
 **10)** El océano es la mayor fuente de [...] en el mundo.  
-Resp.Correcta: proteínas  
-Resp.Incorrecta: biodiversidad  
-Resp.Incorrecta: materias primas  
-Resp.Incorrecta: residuos  
+Resp.Correcta: Proteínas  
+Resp.Incorrecta: Biodiversidad  
+Resp.Incorrecta: Materias primas  
+Resp.Incorrecta: Residuos  
 
 **11)** ¿Qué es el Derecho del Mar?  
-Resp.Correcta: derecho que le otorga a cada nación costera ejercer su soberanía sobre el mar territorial hasta 22,24 km  
-Resp.Incorrrecta: derecho a manifestarse en contra de actividades ilegítimas que suceden en el mar y océanos  
-Resp.Incorrrecta: derecho a empresas multinacionales a usar sectores marítimos sin pertenencia  
-Resp.Incorrrecta: todas  
+Resp.Correcta: Derecho que le otorga a cada nación costera ejercer su soberanía sobre el mar territorial hasta 22,24 km  
+Resp.Incorrrecta: Derecho a manifestarse en contra de actividades ilegítimas que suceden en el mar y océanos  
+Resp.Incorrrecta: Derecho a empresas multinacionales a usar sectores marítimos sin pertenencia  
+Resp.Incorrrecta: Todas  
 
 **12)** ¿Cuántos animales marinos mueren debido a la contaminación por año?  
 Resp.Correcta: 100.000  
@@ -73,17 +73,17 @@ Resp.Incorrrecta: 1 millón
 Resp.Incorrrecta: 500.000  
 
 **13)** Uno de los objetivos del ODS 6 es:  
-Resp.Correcta: lograr el acceso a servicios básicos de saneamiento  
-Resp.Incorrrecta: detener la contaminación de la vida marina  
-Resp.Incorrrecta: crear un ecosistema para preservar vida marina  
-Resp.Incorrrecta: enjuiciar aquellos responsables de la contaminación de agua potable  
+Resp.Correcta: Lograr el acceso a servicios básicos de saneamiento  
+Resp.Incorrrecta: Detener la contaminación de la vida marina  
+Resp.Incorrrecta: Crear un ecosistema para preservar vida marina  
+Resp.Incorrrecta: Enjuiciar aquellos responsables de la contaminación de agua potable  
 
 
 **14)** ¿Para qué se busca la participación de las personas en el ODS 6?  
-Resp.Correcta: para mejorar la gestión del agua y el saneamiento  
-Resp.Incorrrecta: para propagar el mensaje  
-Resp.Incorrrecta: para reducir gastos  
-Resp.Incorrrecta: para fomentar el aprendizaje del cuidado del medioambiente  
+Resp.Correcta: Para mejorar la gestión del agua y el saneamiento  
+Resp.Incorrrecta: Para propagar el mensaje  
+Resp.Incorrrecta: Para reducir gastos  
+Resp.Incorrrecta: Para fomentar el aprendizaje del cuidado del medioambiente  
 
 **15)** Porcentaje de la población mundial con un servicio de saneamiento seguro:  
 Resp.Correcta: 45%  
@@ -98,10 +98,10 @@ Resp.Incorrrecta: Los hombres adultos
 Resp.Incorrrecta: No hay quién se encargue  
 
 **17)** ¿Cuál de los siguientes objetivos NO pertenece al ODS 14?  
-Resp.Correcta: desarrollar actividades y programas relativos al agua y el saneamiento  
-Resp.Incorrrecta: prevenir y reducir la contaminación marina de todo tipo  
-Resp.Incorrrecta: conservar las zonas costeras y marinas  
-Resp.Incorrrecta: facilitar el acceso de los pescadores artesanales a los recursos marinos y los mercados  
+Resp.Correcta: Desarrollar actividades y programas relativos al agua y el saneamiento  
+Resp.Incorrrecta: Prevenir y reducir la contaminación marina de todo tipo  
+Resp.Incorrrecta: Conservar las zonas costeras y marinas  
+Resp.Incorrrecta: Facilitar el acceso de los pescadores artesanales a los recursos marinos y los mercados  
 
 
 **18)** ¿Qué significan las siglas OMI?  
