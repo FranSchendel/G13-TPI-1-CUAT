@@ -1,0 +1,60 @@
+body {
+    height: 100vh;
+}
+
+main h1{
+    text-align: center;
+}
+
+
+.quiz-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: justify;
+    align-content: space-around;
+    width: 60%;
+    height: calc(100% - 50px);
+    margin: auto;
+}
+
+.quiz-info .nombre {
+    width: 100%;
+    margin: 30px 0px;
+}
+
+.quiz-info button {
+    padding: 15px 0px;
+}
+
+.quiz {
+    width: 60%;
+    margin: auto;
+    display: none;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 90%;
+}
+
+.quiz .pregunta {
+    width: 100%;
+    text-align: center;
+}
+
+.quiz .respuesta {
+    width: 45%;
+    height: 20%;
+    text-align: center;
+    border: 2px solid black;
+    transition: all .3s ease-in;
+}
+
+.quiz .respuesta:hover {
+    border: 2px solid grey;
+    background-color: black;
+    color: grey;
+}
+
+.quiz .abandonar {
+    height: 80%;
+}
