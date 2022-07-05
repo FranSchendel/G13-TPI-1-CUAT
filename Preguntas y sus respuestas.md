@@ -110,10 +110,14 @@ Resp.Incorrrecta: Organización de Marineros Internacional
 Resp.Incorrrecta: Organización Maríima para la Intercomunicación  
 Resp.Incorrrecta: Organización Mundial de la Internavegación  
 
-**19)**  ¿Cuál de estos objetivos no es propio del ODS 6?
+**19)**  ¿Cuál de estos objetivos no es propio del ODS 6?  
 Resp.Correcta: De aquí a 2030, aumentar los beneficios económicos que los pequeños Estados insulares en desarrollo y los países menos adelantados obtienen del uso sostenible de los recursos marinos, en particular mediante la gestión sostenible de la pesca, la acuicultura y el turismo  
 Resp.Incorrrecta:  De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda  
 Resp.Incorrrecta:  De aquí a 2020, proteger y restablecer los ecosistemas relacionados con el agua, incluidos los bosques, las montañas, los humedales, los ríos, los acuíferos y los lagos  
 Resp.Incorrrecta:  Apoyar y fortalecer la participación de las comunidades locales en la mejora de la gestión del agua y el saneamiento  
 
-**20)**
+**20)** ¿Qué tipo de ciencia quiere impulsar la ONU en esta década?  
+Resp.Correcta: Ciencias Oceánicas      
+Resp.Incorrrecta: Ciencias Meteorológicas      
+Resp.Incorrrecta: Ciencias Químicas    
+Resp.Incorrrecta: Ciencias Biológicas  
