@@ -40,7 +40,7 @@ Resp. Correcta: La crianza de especies acuáticas, vegetales y animales
 Resp.Incorrecta: La crianza de las abejas  
 Resp.Incorrecta: La limpieza de los acuíferos  
 Resp.incorrecta: Estudio de la vida marítima  
-**Justificación:**  Este consiste en el cultivo de organismos acuáticos tanto en zonas costeras como en el interior, lo cual implica intervenciones en el proceso de cría para aumentar la producción.
+**Justificación:** Este consiste en el cultivo de organismos acuáticos tanto en zonas costeras como en el interior, lo cual implica intervenciones en el proceso de cría para aumentar la producción.
 
 **7)** ¿Qué se celebra el Día Mundial del Retrete (19 de septiembre)?  
 Resp.Correcta:  Abordar la crisis mundial de saneamiento  
@@ -61,63 +61,63 @@ Resp.Correcta: Israel
 Resp.Incorrecta: Venezuela  
 Resp.Incorrecta: Argentina  
 Resp.Incorrecta: China  
-**Justificación:**
+**Justificación:** Este país, junto con otros, presentau estres hidrico extremo, esto quiere decir que estos países tienen el riesgo de enfrentar crisis de escasez de agua, y de acercarse progresivamente al “día cero”, día en que la demanda del agua supera al suministro disponible.   
 
 **10)** El océano es la mayor fuente de [...] en el mundo.  
 Resp.Correcta: Proteínas  
 Resp.Incorrecta: Biodiversidad  
 Resp.Incorrecta: Materias primas  
 Resp.Incorrecta: Residuos    
-**Justificación:**
+**Justificación:** Más de 3.000 millones de personas dependen de los océanos como fuente principal de proteínas.
 
 **11)** ¿Qué es el Derecho del Mar?  
 Resp.Correcta: Derecho que le otorga a cada nación costera ejercer su soberanía sobre el mar territorial hasta 22,24 km  
 Resp.Incorrrecta: Derecho a manifestarse en contra de actividades ilegítimas que suceden en el mar y océanos  
 Resp.Incorrrecta: Derecho a empresas multinacionales a usar sectores marítimos sin pertenencia  
 Resp.Incorrrecta: Todas  
-**Justificación:**
+**Justificación:** También le otorga la competencia sobre los recursos, investigaciones científicas y protección del medio ambiente en la zona económica exclusiva que llega hasta los 370,4 km.
 
 **12)** ¿Cuántos animales marinos mueren debido a la contaminación por año?  
 Resp.Correcta: 100.000  
 Resp.Incorrrecta: 1,5 millones  
 Resp.Incorrrecta: 1 millón  
 Resp.Incorrrecta: 500.000  
-**Justificación:**
+**Justificación:**  Los desechos de la pesca, como redes, líneas y aparejos, causAN muertes en animales más grandes, particularmente focas y leones marinos. Las tortugas y ballenas que comen desechos pueden tener dificultades para nadar, lo que puede aumentar el riesgo de ser golpeadas por barcos o botes. Además, cuando los animales comen plástico, esto puede bloquear su sistema digestivo, y provocar una muerte lenta y prolongada por inanición y los trozos afilados de plástico también pueden perforar la pared intestinal y causar infecciones y a veces la muerte. Tan solo una pieza de plástico ingerida puede matar a un animal.
 
 **13)** Uno de los objetivos del ODS 6 es:  
 Resp.Correcta: Lograr el acceso a servicios básicos de saneamiento  
 Resp.Incorrrecta: Detener la contaminación de la vida marina  
 Resp.Incorrrecta: Crear un ecosistema para preservar vida marina  
 Resp.Incorrrecta: Enjuiciar aquellos responsables de la contaminación de agua potable  
-**Justificación:**
+**Justificación:** También a los servicios de higiene adecuados y equitativos para todos y poner fin a la defecación al aire libre, prestando especial atención a las necesidades de las mujeres y las niñas y las personas en situaciones de vulnerabilidad
 
 **14)** ¿Para qué se busca la participación de las personas en el ODS 6?  
 Resp.Correcta: Para mejorar la gestión del agua y el saneamiento  
 Resp.Incorrrecta: Para propagar el mensaje  
 Resp.Incorrrecta: Para reducir gastos  
 Resp.Incorrrecta: Para fomentar el aprendizaje del cuidado del medioambiente    
-**Justificación:**
+**Justificación:** Las organizaciones de la sociedad civil deben trabajar para exigir que los gobiernos rindan cuentas, invertir en investigación y desarrollo de los recursos hídricos y promover la inclusión de las mujeres, los jóvenes y las comunidades indígenas en la gobernanza de los recursos hídricos y concientizar sobre estos cometidos y convertirlos en medidas concretas producirá resultados ventajosos para todos y conllevará una mayor sostenibilidad e integridad de los sistemas humanos y ecológicos.
 
 **15)** Porcentaje de la población mundial con un servicio de saneamiento seguro:  
 Resp.Correcta: 45%  
 Resp.Incorrrecta: 30%  
 Resp.Incorrrecta: 70%  
 Resp.Incorrrecta: 82%  
-**Justificación:**
+**Justificación:** Un servicio de saneamiento seguro esta compuesto por un Servicio de Agua Potable, que esta cuompuesto por un Sistema de producción y un Sistema de Distribución, un Servicio de Alcantarillado Sanitario, un Servicio de Tratamiento de Aguas Residuales y un Servicio de Disposición Sanitarias de Excretas. 
 
 **16)** En los países de bajos ingresos. ¿Quienes tienen la  responsabilidad de encargarse de la gestión del suministro de agua, el saneamiento y la salud en el hogar? 
 Resp.Correcta: Las mujeres y las niñas  
 Resp.Incorrrecta: Los niños y niñas  
 Resp.Incorrrecta: Los hombres adultos  
 Resp.Incorrrecta: No hay quién se encargue    
-**Justificación:**
+**Justificación:** Sin agua potable segura, instalaciones adecuadas de saneamiento e higiene en el hogar y en los lugares de trabajo y educación, es desproporcionadamente más difícil para las mujeres y las niñas llevar vidas seguras, productivas y saludables. El cumplimiento de estos roles excluye cualquier otra ocupación o participación en la educación, y su marginación se ve agravada por la indignidad y la inseguridad de no tener un lugar privado para ir al baño. 
 
 **17)** ¿Cuál de los siguientes objetivos NO pertenece al ODS 14?  
 Resp.Correcta: Desarrollar actividades y programas relativos al agua y el saneamiento  
 Resp.Incorrrecta: Prevenir y reducir la contaminación marina de todo tipo  
 Resp.Incorrrecta: Conservar las zonas costeras y marinas  
 Resp.Incorrrecta: Facilitar el acceso de los pescadores artesanales a los recursos marinos y los mercados  
-**Justificación:**
+**Justificación:** 
 
 **18)** ¿Qué significan las siglas OMI?  
 Resp.Correcta: Organización Marítima Internacional  
