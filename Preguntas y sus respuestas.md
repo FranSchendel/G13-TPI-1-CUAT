@@ -12,49 +12,49 @@ Resp.Correcta: Minimizar y abordar los efectos de la acidificación de los océa
 Resp.Incorrecta: Proteger y restablecer los ecosistemas acuáticos.  
 Resp.Incorrecta: Aumentar el uso eficiente de los recursos hídricos en todos los sectores  
 Resp.Incorrecta: Acceso universal y equitativo al agua potable  
-**Justificación:**
+**Justificación:** Para lograrlo hay que reducir los gases de efecto invernadero, especialmente el CO2. Por eso, cualquier medida encaminada a disminuir esas emisiones contribuirá a reducir también la acidificación de los océanos. Esto implica, entre otras cosas: Dejar de usar combustibles fósiles en favor de vehículos eléctricos
 
 **3)** ¿Cuántas personas aproximadamente carecen de acceso a servicios básicos de saneamiento?  
 Resp.Correcta: 4 billones  
 Resp.Incorrecta: 1 billón  
 Resp.Incorrecta: 7.000 millones  
 Resp.Incorrecta: 580.000 millones   
-**Justificación:**
+**Justificación:** Esto equivale a un porcentaje cercano al 40% de la población mundial. La mayoria de estas personas estan ubicadas en el contienete africano.
 
 **4)** La falta de higiene puede provocar:  
 Resp.Correcta: Todas  
 Resp.Incorrecta:  Enfermedades diarreicas   
 Resp.Incorrecta:  Muerte  
 Resp.Incorrecta: Gripe    
-**Justificación:**
+**Justificación:** ¿Sabías qué? 3 de cada 10 personas carecen de acceso a servicios de agua potable seguros y 6 de cada 10 carecen de acceso a instalaciones de saneamiento gestionadas de forma segura. Las enfermedades relacionadas con el agua y el saneamiento siguen estando entre las principales causas de fallecimiento de niños menores de 5 años; más de 800 niños mueren cada día por enfermedades diarreicas asociadas a la falta de higiene.
 
 **5)** ¿Qué es lo que genera que el océano sea más ácido?  
 Resp. Correcta: Dióxido de Carbono  
 Resp.Incorrecta: Calentamiento global  
 Resp.Incorrecta: Pescadería  
 Resp.incorrecta: Desechos de animales    
-**Justificación:**
+**Justificación:** El dióxido de carbono atmosférico es absorbido por los océanos, desencadenando una reacción química y como resultado genera un descenso del pH del agua de mar. El aumento del dióxido de carbono disuelto favorece la reacción con el carbonato cálcico causando que el océano se vuelva más ácido.
 
 **6)** ¿Qué es la acuicultura?  
 Resp. Correcta: La crianza de especies acuáticas, vegetales y animales  
 Resp.Incorrecta: La crianza de las abejas  
 Resp.Incorrecta: La limpieza de los acuíferos  
 Resp.incorrecta: Estudio de la vida marítima  
-**Justificación:**
+**Justificación:**  Este consiste en el cultivo de organismos acuáticos tanto en zonas costeras como en el interior, lo cual implica intervenciones en el proceso de cría para aumentar la producción.
 
 **7)** ¿Qué se celebra el Día Mundial del Retrete (19 de septiembre)?  
 Resp.Correcta:  Abordar la crisis mundial de saneamiento  
 Resp.Incorrecta: Celebrar al creador del Inodoro (Joseph Bramah)  
 Resp.Incorrecta: Abordar la falta de Retretes en el mundo  
 Resp.Incorrecta: Día para lavar el Inodoro   
-**Justificación:**
+**Justificación:** Casi la mitad de la población mundial carece de servicios de saneamiento gestionados de forma segura. Con que algunas personas de una comunidad no dispongan de retretes aptos para que la salud de todos esté en peligro. El saneamiento deficiente contamina las fuentes de agua potable, los ríos, las playas y los cultivos alimentarios y propaga enfermedades mortales entre la población.
 
 **8)** Puestos de trabajo creados por la pesca marina:  
 Resp.Correcta: +200 millones  
 Resp.Incorrecta: +850 millones  
 Resp.Incorrecta: +350 millones  
 Resp.Incorrecta: 150 millones    
-**Justificación:**
+**Justificación:** La pesca marina emplea directa o indirectamente más de 200 millones de personas.
 
 **9)** ¿Cuál de estos países es el que tiene menos acceso a agua potable?  
 Resp.Correcta: Israel  
