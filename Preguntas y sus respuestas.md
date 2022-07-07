@@ -117,25 +117,25 @@ Resp.Correcta: Desarrollar actividades y programas relativos al agua y el saneam
 Resp.Incorrrecta: Prevenir y reducir la contaminación marina de todo tipo  
 Resp.Incorrrecta: Conservar las zonas costeras y marinas  
 Resp.Incorrrecta: Facilitar el acceso de los pescadores artesanales a los recursos marinos y los mercados  
-**Justificación:** 
+**Justificación:** La idea es  mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de productos químicos y materiales peligrosos, reduciendo a la mitad el porcentaje de aguas residuales sin tratar y aumentando considerablemente el reciclado y la reutilización sin riesgos a nivel mundial
 
 **18)** ¿Qué significan las siglas OMI?  
 Resp.Correcta: Organización Marítima Internacional  
 Resp.Incorrrecta: Organización de Marineros Internacional  
 Resp.Incorrrecta: Organización Maríima para la Intercomunicación  
 Resp.Incorrrecta: Organización Mundial de la Internavegación   
-**Justificación:**
+**Justificación:** Es un organismo especializado de las Naciones Unidas que promueve la cooperación entre Estados y la industria de transporte para mejorar la seguridad marítima y para prevenir la contaminación marina.
 
 **19)**  ¿Cuál de estos objetivos no es propio del ODS 14?  
 Resp.Correcta:  De aquí a 2030, implementar la gestión integrada de los recursos hídricos a todos los niveles, incluso mediante la cooperación transfronteriza, según proceda.  
 Resp.Incorrrecta:  Minimizar y abordar los efectos de la acidificación de los océanos, incluso mediante una mayor cooperación científica a todos los niveles.  
 Resp.Incorrrecta:  De aquí a 2030, aumentar los beneficios económicos que los pequeños Estados insulares en desarrollo y los países menos adelantados obtienen del uso sostenible de los recursos marinos, en particular mediante la gestión sostenible de la pesca, la acuicultura y el turismo.  
 Resp.Incorrrecta:  Aumentar los conocimientos científicos, desarrollar la capacidad de investigación y transferir tecnología marina, teniendo en cuenta los Criterios y Directrices para la Transferencia de Tecnología Marina de la Comisión Oceanográfica Intergubernamental, a fin de mejorar la salud de los océanos y potenciar la contribución de la biodiversidad marina al desarrollo de los países en desarrollo, en particular los pequeños Estados insulares en desarrollo y los países menos adelantados.  
-**Justificación:**
+**Justificación:** Es un proceso que promueve el manejo y desarrollo coordinado del agua, la tierra y los recursos relacionados, con el fin de maximizar el bienestar social y económico resultante de manera equitativa sin comprometer la sustentabilidad de los ecosistemas vitales.
 
 **20)** ¿Qué tipo de ciencia quiere impulsar la ONU en esta década?  
 Resp.Correcta: Ciencias Oceánicas      
 Resp.Incorrrecta: Ciencias Meteorológicas      
 Resp.Incorrrecta: Ciencias Químicas    
 Resp.Incorrrecta: Ciencias Biológicas  
-**Justificación:**
+**Justificación:** El objetivo es movilizar a la comunidad científica, pero también a los políticos, a las empresas y a la sociedad civil en torno a un programa común de investigación y de innovación tecnológica. Una de las prioridades durante esos diez años será reforzar y diversificar las fuentes de financiación. En la actualidad los países dedican a las ciencias oceánicas entre el 0,04 % y el 4 % del dinero invertido en investigación y desarrollo (I+D). Sin embargo, hay casi 3.000 millones de personas que dependen de la biodiversidad marina y costera para su subsistencia, y los océanos absorben casi un tercio del dióxido de carbono generado por el hombre y atenúan así el impacto del calentamiento climático.
